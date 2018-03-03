@@ -1,0 +1,15 @@
+.container {
+    background-color: aqua; 
+    /* background: url('../images/concrete_seamless.png');      */
+}
+
+h1 {
+    font-weight: bolder;
+    background-color: yellow;
+    
+}
+
+#banner {
+    background-color: yellow;
+}
+
